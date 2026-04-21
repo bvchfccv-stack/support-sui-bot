@@ -1,8 +1,8 @@
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = 123456789
+TOKEN = "8656706863:AAG6nchT03AIbXM2j3InWLjBwLKBLCvJQ-o"
+ADMIN_ID = 8363290963
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
